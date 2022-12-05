@@ -1,1 +1,1 @@
-# Connection to GitHub Account Done!
+* Connection to GitHub Account Done!
